@@ -24,7 +24,10 @@ A simple yet powerful PHP tool to catch Git webhooks from GitLab and GitHub and 
 
 ## Configure Gitlab Hook
 
+Repo -> Integrations -> URL
+
 https://deploy.example.com/app/deeplio/Deeplio.php/your-very-long-secret-token-make-that-more-than-30-chars
+
 
 #### [Visit the official website for instructions and more information »](http://deepl.io)
 
